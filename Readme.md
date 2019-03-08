@@ -1,19 +1,25 @@
-### MEAN
-
-> **M**ongo **E**xpress **A**ngular **N**ode
+### Express Mongo
 
 ### How to get a copy of the code
 
 ```
 cd desktop
-git clone https://github.com/ammonk/mean-starter.git
+git clone https://github.com/ammonk/express-mongo.git
+```
+
+### Dependencies
+
+Nodemon
+
+```
+npm install -g nodemon
 ```
 
 ### How to run
 
 ```
 npm install
-npm run dev
+npm start
 ```
 
 ### How To Make From Scratch
